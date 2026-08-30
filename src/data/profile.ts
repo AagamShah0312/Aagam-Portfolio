@@ -19,7 +19,7 @@ export const profile = {
   university: 'LJ University',
   avatar: 'https://avatars.githubusercontent.com/u/220456051?v=4',
   /** add your email here to enable the mail button in ~/connect */
-  email: '',
+  email: 'aagam0312@gmail.com',
   links: {
     github: 'https://github.com/AagamShah0312',
     linkedin: 'https://www.linkedin.com/in/aagam-shah-3bb04b3b0/',
